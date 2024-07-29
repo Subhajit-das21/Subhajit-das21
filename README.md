@@ -10,7 +10,7 @@ Hi there! I'm Subhajit Das, a passionate Computer Science and Engineering studen
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ## 📊 GitHub Stats:
-![Subhajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![Subhajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subhajit-das21&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=your_github_username&theme=onedark)
