@@ -4,8 +4,7 @@
 
 Hi there! I'm Subhajit Das, a passionate first-year Computer Science and Engineering (CSE) student.
 
-<img align="right" alt="coding" width="300" src="![image](https://github.com/user-attachments/assets/b2c1a7d2-e24b-4c1c-85a4-64df94c6572a)
-">
+<img align="right" width="300" ![image](https://github.com/user-attachments/assets/b2c1a7d2-e24b-4c1c-85a4-64df94c6572a)>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
