@@ -2,9 +2,9 @@
 
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Subhajit Das, a passionate Computer Science and Engineering student.
+Hi there! I'm Subhajit Das, a passionate first-year Computer Science and Engineering (CSE) student.
 
-## 🛠 Programming Languages :
+## 💻 Programming Languages :
 - **Languages:**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
