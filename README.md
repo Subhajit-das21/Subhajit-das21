@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Subhajit!
 <img align="right" alt="gif" width="250" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
-👩🏻‍💻 A first-year Computer Science and Engineering (CSE) student. <br/>
+👩🏻‍💻 first-year Computer Science and Engineering (CSE) student. <br/>
+👩🏻‍🎓 Studing Computer Science at RCC Institute of Technology, India<br/>
 💭 Currently learning "c" and "javascript" !<br/> 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
