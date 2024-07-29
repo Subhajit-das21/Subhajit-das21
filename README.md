@@ -1,4 +1,4 @@
-![logo]([https://github.com/Subhajit-das21/Subhajit-das21/blob/main/DALL%C2%B7E%202024-07-29%2021.02.10%20-%20A%20unique%20and%20beautiful%20banner%20featuring%20different%20programming%20languages.%20The%20design%20should%20be%20one%20of%20a%20kind%2C%20incorporating%20modern%20and%20clean%20aesthetics.webp](https://github.com/Subhajit-das21/Subhajit-das21/blob/main/banner.jpg))
+![Banner]([https://github.com/Subhajit-das21/Subhajit-das21/blob/main/DALL%C2%B7E%202024-07-29%2021.02.10%20-%20A%20unique%20and%20beautiful%20banner%20featuring%20different%20programming%20languages.%20The%20design%20should%20be%20one%20of%20a%20kind%2C%20incorporating%20modern%20and%20clean%20aesthetics.webp](https://github.com/Subhajit-das21/Subhajit-das21/blob/main/banner.jpg))
 
 # Welcome to My GitHub Profile! 👋
 
