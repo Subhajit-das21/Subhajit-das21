@@ -18,7 +18,7 @@
 *second-year CSE student · rcc institute · india*
  
 ```
-turning  ☕ coffee  →  commits  since  2023
+turning  ☕ coffee  →  commits  since  2024
 ```
  
 </div>
