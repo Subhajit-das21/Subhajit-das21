@@ -1,115 +1,144 @@
 <div align="center">
-
-[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=99999&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=SUBHAJIT+DAS)](https://github.com/Subhajit-das21)
-
-### `< Hello, World! />` — I'm **Subhajit Das** 👾
-
-*A code-wielding CSE student from India, turning coffee ☕ into commits*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Second-Year+CSE+Student+%F0%9F%8E%93;Full-Stack+Enthusiast+%F0%9F%9A%80;Open+Source+Explorer+%F0%9F%94%AD;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
-
+ 
+<!-- STAR FIELD HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Subhajit%20Das&fontSize=70&color=0:0a0a0f,100:0a0a0f&stroke=00f7ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=50&descAlignY=70" width="100%"/>
+ 
 </div>
-
----
-
-## 🧬 About Me
-
-```python
-class Subhajit:
-    name       = "Subhajit Das"
-    role       = "CSE Student @ RCC Institute of Information Technology"
-    year       = "2nd Year"
-    location   = "India 🇮🇳"
-    passion    = ["Building things", "Problem Solving", "Open Source"]
-    currently  = "Levelling up my full-stack skills 🚀"
-    ask_me_about = ["C","Java","Python", "Web Dev", "DSA", "Linux"]
-    fun_fact   = "I debug with console.log and I'm not ashamed 😅"
+ 
+<div align="center">
+ 
 ```
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Tools**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhajit-das21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit-das21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-das21&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 📈 Activity Graph
+   ·  ✦       ·        ✦   ·      ✦        ·     ✦   ·
+✦     ·    ✦      ·       ✦    ·      ·  ✦       ·     ·
+  ·     ✦    ·  ✦    ·      ·    ✦  ·       ✦  ·    ✦  
+```
  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-das21&theme=tokyo-night&hide_border=true&area=true" />
+**`< s u b h a j i t . d a s />`**
+ 
+*second-year CSE student · rcc institute · india*
+ 
+```
+turning  ☕ coffee  →  commits  since  2023
+```
+ 
 </div>
  
 ---
-
-## 📡 Let's Connect
-
+ 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-das12)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Subhajit_das21)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subhajit-das21)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhajitdev21@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://subhajitdas.in)
-
+ 
+```python
+me = {
+  "currently"  : "levelling up full-stack  🚀",
+  "studying"   : "CSE @ RCC Institute of IT",
+  "obsessed"   : ["DSA", "open source", "clean code"],
+  "debug_style": "console.log supremacist  😅",
+  "location"   : "India  🇮🇳"
+}
+```
+ 
 </div>
-
+ 
 ---
-
+ 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Subhajit-das21&color=00f7ff&style=flat-square&label=Profile+Views)
-
-*"First, solve the problem. Then, write the code." — John Johnson*
-
-⭐ **If you like what you see, drop a star on something!** ⭐
-
+ 
+## ◈ stack
+ 
+&nbsp;
+ 
+`python` &nbsp;·&nbsp; `c` &nbsp;·&nbsp; `c++` &nbsp;·&nbsp; `java` &nbsp;·&nbsp; `javascript`
+ 
+&nbsp;
+ 
+`html` &nbsp;·&nbsp; `css` &nbsp;·&nbsp; `tailwind` &nbsp;·&nbsp; `node.js` &nbsp;·&nbsp; `mysql`
+ 
+&nbsp;
+ 
+`git` &nbsp;·&nbsp; `linux` &nbsp;·&nbsp; `bash`
+ 
 </div>
+ 
+---
+ 
+<div align="center">
+ 
+## ◈ numbers
+ 
+&nbsp;
+ 
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Subhajit-das21&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&bg_color=0a0a0f"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit-das21&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=0a0a0f"/>
+ 
+&nbsp;
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-das21&theme=transparent&hide_border=true&stroke=00f7ff&ring=00f7ff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=aaaaaa&dates=555555" />
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+## ◈ activity
+ 
+&nbsp;
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-das21&theme=react-dark&hide_border=true&area=true&bg_color=0a0a0f&color=00f7ff&line=00f7ff&point=ffffff&area_color=00f7ff" width="95%"/>
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+## ◈ snake
+ 
+&nbsp;
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake-dark.svg"/>
+</picture>
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+## ◈ connect
+ 
+&nbsp;
+ 
+[![portfolio](https://img.shields.io/badge/portfolio-subhajitdas.in-00f7ff?style=flat-square&logo=firefox&logoColor=00f7ff&labelColor=0a0a0f&color=0a0a0f)](https://subhajitdas.in)
+&nbsp;
+[![linkedin](https://img.shields.io/badge/linkedin-subhajit--das12-0077B5?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=0a0a0f&color=0a0a0f)](https://linkedin.com/in/subhajit-das12)
+&nbsp;
+[![x](https://img.shields.io/badge/x-Subhajit__das21-ffffff?style=flat-square&logo=x&logoColor=ffffff&labelColor=0a0a0f&color=0a0a0f)](https://x.com/Subhajit_das21)
+&nbsp;
+[![gmail](https://img.shields.io/badge/gmail-subhajitdev21-D14836?style=flat-square&logo=gmail&logoColor=D14836&labelColor=0a0a0f&color=0a0a0f)](mailto:subhajitdev21@gmail.com)
+&nbsp;
+[![github](https://img.shields.io/badge/github-Subhajit--das21-ffffff?style=flat-square&logo=github&logoColor=ffffff&labelColor=0a0a0f&color=0a0a0f)](https://github.com/Subhajit-das21)
+ 
+&nbsp;
+ 
+```
+   ·  ✦       ·        ✦   ·      ✦        ·     ✦   ·
+✦     ·    ✦      ·       ✦    ·      ·  ✦       ·     ·
+```
+ 
+&nbsp;
+ 
+![views](https://komarev.com/ghpvc/?username=Subhajit-das21&color=00f7ff&style=flat-square&label=visitors)
+ 
+&nbsp;
+ 
+*"first, solve the problem. then, write the code."*
+ 
+</div>
+ 
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0a0a0f,100:0a0a0f&stroke=00f7ff&strokeWidth=1&section=footer" width="100%"/>
+ 
