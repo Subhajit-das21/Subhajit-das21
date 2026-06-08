@@ -1,144 +1,108 @@
 <div align="center">
- 
-<!-- STAR FIELD HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Subhajit%20Das&fontSize=70&color=0:0a0a0f,100:0a0a0f&stroke=00f7ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=50&descAlignY=70" width="100%"/>
- 
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Subhajit%20Das&fontSize=52&color=0:ffffff,100:f8f8f8&fontColor=111111&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20%7C%20CSE%20Student&descSize=16&descAlignY=78&descColor=666666" width="100%"/>
 </div>
- 
-<div align="center">
- 
-```
-   ·  ✦       ·        ✦   ·      ✦        ·     ✦   ·
-✦     ·    ✦      ·       ✦    ·      ·  ✦       ·     ·
-  ·     ✦    ·  ✦    ·      ·    ✦  ·       ✦  ·    ✦  
-```
- 
-**`< s u b h a j i t . d a s />`**
- 
-*second-year CSE student · rcc institute · india*
- 
-```
-turning  ☕ coffee  →  commits  since  2024
-```
- 
-</div>
- 
+
+&nbsp;
+
+**CSE student at RCC Institute of Information Technology, India.** I build full-stack web applications and enjoy clean, maintainable code. Currently levelling up in backend architecture, DSA, and open source.
+
+&nbsp;
+
 ---
- 
-<div align="center">
- 
-```python
-me = {
-  "currently"  : "levelling up full-stack  🚀",
-  "studying"   : "CSE @ RCC Institute of IT",
-  "obsessed"   : ["DSA", "open source", "clean code"],
-  "debug_style": "console.log supremacist  😅",
-  "location"   : "India  🇮🇳"
-}
+
+## About
+
+```typescript
+const subhajit = {
+  education : "B.Tech CSE — RCC Institute of Information Technology",
+  year      : "Second Year",
+  focus     : ["Full-Stack Development", "DSA", "Open Source"],
+  currently : "Building production-grade web apps",
+  location  : "India 🇮🇳",
+};
 ```
- 
-</div>
- 
+
 ---
- 
-<div align="center">
- 
-## ◈ stack
- 
-&nbsp;
- 
-`python` &nbsp;·&nbsp; `c` &nbsp;·&nbsp; `c++` &nbsp;·&nbsp; `java` &nbsp;·&nbsp; `javascript`
- 
-&nbsp;
- 
-`html` &nbsp;·&nbsp; `css` &nbsp;·&nbsp; `tailwind` &nbsp;·&nbsp; `node.js` &nbsp;·&nbsp; `mysql`
- 
-&nbsp;
- 
-`git` &nbsp;·&nbsp; `linux` &nbsp;·&nbsp; `bash`
- 
-</div>
- 
+
+## Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Web & Tools**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
 ---
- 
+
+## GitHub Stats
+
 <div align="center">
- 
-## ◈ numbers
- 
+
+<img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Subhajit-das21&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
 &nbsp;
- 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Subhajit-das21&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&bg_color=0a0a0f"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit-das21&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=0a0a0f"/>
- 
+<img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Subhajit-das21&layout=compact&langs_count=6&theme=default&hide_border=true"/>
+
 &nbsp;
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-das21&theme=transparent&hide_border=true&stroke=00f7ff&ring=00f7ff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=aaaaaa&dates=555555" />
- 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-das21&theme=default&hide_border=true"/>
+
 </div>
- 
+
 ---
- 
+
+## Activity
+
 <div align="center">
- 
-## ◈ activity
- 
-&nbsp;
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-das21&theme=react-dark&hide_border=true&area=true&bg_color=0a0a0f&color=00f7ff&line=00f7ff&point=ffffff&area_color=00f7ff" width="95%"/>
- 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-das21&theme=minimal&hide_border=true&area=true" width="95%"/>
 </div>
- 
+
 ---
- 
+
+## Contribution Snake
+
 <div align="center">
- 
-## ◈ snake
- 
-&nbsp;
- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake-dark.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Subhajit-das21/Subhajit-das21/output/github-snake.svg"/>
 </picture>
- 
 </div>
- 
+
 ---
- 
+
+## Connect
+
 <div align="center">
- 
-## ◈ connect
- 
-&nbsp;
- 
-[![portfolio](https://img.shields.io/badge/portfolio-subhajitdas.in-00f7ff?style=flat-square&logo=firefox&logoColor=00f7ff&labelColor=0a0a0f&color=0a0a0f)](https://subhajitdas.in)
-&nbsp;
-[![linkedin](https://img.shields.io/badge/linkedin-subhajit--das12-0077B5?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=0a0a0f&color=0a0a0f)](https://linkedin.com/in/subhajit-das12)
-&nbsp;
-[![x](https://img.shields.io/badge/x-Subhajit__das21-ffffff?style=flat-square&logo=x&logoColor=ffffff&labelColor=0a0a0f&color=0a0a0f)](https://x.com/Subhajit_das21)
-&nbsp;
-[![gmail](https://img.shields.io/badge/gmail-subhajitdev21-D14836?style=flat-square&logo=gmail&logoColor=D14836&labelColor=0a0a0f&color=0a0a0f)](mailto:subhajitdev21@gmail.com)
-&nbsp;
-[![github](https://img.shields.io/badge/github-Subhajit--das21-ffffff?style=flat-square&logo=github&logoColor=ffffff&labelColor=0a0a0f&color=0a0a0f)](https://github.com/Subhajit-das21)
- 
-&nbsp;
- 
-```
-   ·  ✦       ·        ✦   ·      ✦        ·     ✦   ·
-✦     ·    ✦      ·       ✦    ·      ·  ✦       ·     ·
-```
- 
-&nbsp;
- 
-![views](https://komarev.com/ghpvc/?username=Subhajit-das21&color=00f7ff&style=flat-square&label=visitors)
- 
-&nbsp;
- 
-*"first, solve the problem. then, write the code."*
- 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-subhajitdas.in-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://subhajitdas.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhajit_Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-das12)
+[![X](https://img.shields.io/badge/X-Subhajit__das21-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Subhajit_das21)
+[![Gmail](https://img.shields.io/badge/Gmail-subhajitdev21-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhajitdev21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Subhajit--das21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subhajit-das21)
+
 </div>
- 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0a0a0f,100:0a0a0f&stroke=00f7ff&strokeWidth=1&section=footer" width="100%"/>
- 
+
+&nbsp;
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Subhajit-das21&color=555555&style=flat-square&label=Profile+Views)
+
+&nbsp;
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
